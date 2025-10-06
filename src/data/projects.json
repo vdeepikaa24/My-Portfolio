@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Library Management System",
+    "imageSrc": "/projects/project.png",
+    "description": "Simplifies library management with user-friendly online interface.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Alumni Management System",
+    "imageSrc": "/projects/project.png",
+    "description": "Manages alumni details and events seamlessly on the web.",
+    "skills": ["Eclipse"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Payroll Management System",
+    "imageSrc": "/projects/project.png",
+    "description": "Efficiently manages employee salaries, records, and payments online.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
